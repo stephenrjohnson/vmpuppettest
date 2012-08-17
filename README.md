@@ -32,9 +32,9 @@ Install the following gems
 Add
 
 ```ruby
-require 'pathto/vmpuppettest/lib/vmpuppettest/rake_tasks' to your Rakefile
+require 'pathto/vmpuppettest/lib/vmpuppettest/rake_tasks' to your
 ```
-
+to your Rakefile
 ## Setp 4: Run setup 
 Run rake vmsetup to create all the files we need
 
