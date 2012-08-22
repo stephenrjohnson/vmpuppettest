@@ -6,7 +6,6 @@ Currently this only works if the top level directory is the same asi the module
 name.
 
 # TODO
-Read the modulefile if present to work out the module name.
 Wrap into rspec so you can actually run checks on the state of the virtual machine.
 
 # Idea
